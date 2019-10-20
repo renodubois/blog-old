@@ -1,0 +1,22 @@
+baseurl = "https://www.renoinmo.tv/blog"
+title = "RenoInMO: the blog"
+copyright = "Copyright &copy; 2019 - Reno DuBois"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Reno DuBois"
+    github = "renodubois"
+    twitch = "renoinmo"
+    twitter = "renoinmo"
+    instagram = ""
+
+[params]
+    tagline = "Tagline coming soon(tm)"
+    customCSS = []  #Optional Customised CSS
