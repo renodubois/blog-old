@@ -1,4 +1,4 @@
-baseurl = "https://www.renoinmo.tv/blog"
+baseurl = "https://blog.renoinmo.tv/"
 title = "RenoInMO: the blog"
 copyright = "Copyright &copy; 2019 - Reno DuBois"
 canonifyurls = true
