@@ -20,3 +20,5 @@ pygmentsCodeFences = true
 [params]
     tagline = "Tagline coming soon(tm)"
     customCSS = []  #Optional Customised CSS
+	
+disqusShortname = "renoinmo"
